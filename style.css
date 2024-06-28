@@ -1,0 +1,16 @@
+body {
+    background-color: #add8e6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home-links,
+ul,
+ol,
+p {
+    font-size: 20px;
+}
+
+.home-img {
+    height: auto;
+    width: 300px;
+}
